@@ -119,7 +119,7 @@ const RSVP = ({ setSelectedPage }: propsType) => {
             JOIN WITH US
           </h4>
           <p className="sm:mt-16 mt-3 text-white text-center sm:text-2xl text-xl cormorant">
-            Please reply latest by April 26th, 2024
+            Please reply latest by Nov 10th, 2024
           </p>
 
           <form className="w-10/12 mx-auto" onSubmit={handleSubmit}>
