@@ -31,26 +31,15 @@ const Story = ({ setSelectedPage }: propsType) => {
           data-aos-duration="1500"
           className="mt-10 text-center cormorant text-lg font-semibold"
         >
-          On my last shift as a lighthouse keeper, I climbed the seventy-six
-          spiral iron stairs and two ladders to the watch room, the number of
-          steps the same as my age. The thwomp and snare of each step laid an
-          ominous background score. Something wasn’t right. At that very moment,
-          Richie Tedesco was pointing a fire extinguisher at the burning
-          electrical panel in the engine room of his boat a few miles offshore.
-          The placard in the watch room read “Marge Mabrity, Lightkeeper—First
-          lighted the depths on March 2nd, 1985, and hasn’t missed a night.”
-          Already so close to forty years. I could still read the skies like a
-          book. The lighthouse smelled of aging wood, dried-out moss, and the
-          bitter acid spritz of corrosion. But out on the gallery deck, leaning
-          against the handrails, there was the unmistakable scent of petrichor.
-          The clouds in the distance grew taller, black shading growing across
-          their swelling bellies, with the storm caps flattening under the
-          weight of the system. I tasted the metallic hint of ozone on my
-          tongue. I felt the intensity of the pressure in my ears and on my
-          forehead. I know what you are thinking. Why had I even done it? For
-          all those years. I guess finding lost things was always the one thing
-          about me that was uniquely my own. And I didn’t know if I could give
-          it up.{" "}
+          We first met on a TU Hmawbi ferry in December 2011. I was immediately
+          drawn to her and eagerly looked forward to seeing her whenever we
+          waited at the ferry. I didn't take too long to confess my feelings to
+          her, but she asked for nearly a month to think it over. On January
+          11th, 2012, we officially became a couple. After over 12 years of
+          building a relationship based on mutual understanding, I proposed to
+          her on June 16th 2024 in the presence of family and friends. We
+          decided to marry on November 10th 2024, and we’ve worked hard together
+          to reach this special moment.
         </p>
 
         <div className=" w-full mt-12 flex md:flex-row flex-col gap-9 items-center">
@@ -95,7 +84,7 @@ const Story = ({ setSelectedPage }: propsType) => {
             >
               <p className="text-2xl cormorant">WHICH IS CELEBRATION ON</p>
               <p className="text-4xl cormorant font-semibold">
-                DEC | 25 | 2024
+                NOV | 10 | 2024
               </p>
             </div>
 
@@ -104,8 +93,8 @@ const Story = ({ setSelectedPage }: propsType) => {
               data-aos="fade-down"
               data-aos-duration="2500"
             >
-              <p className="text-2xl cormorant">STARTING AT 3:00</p>
-              <p className="text-2xl cormorant">IN THE AFTERNOON</p>
+              <p className="text-2xl cormorant">STARTING AT 9:00</p>
+              <p className="text-2xl cormorant">IN THE MORNING</p>
             </div>
 
             <div
@@ -113,8 +102,8 @@ const Story = ({ setSelectedPage }: propsType) => {
               data-aos="fade-down"
               data-aos-duration="3000"
             >
-              <p className="text-2xl cormorant">SAINT THOMAS CHURCH</p>
-              <p className="text-2xl cormorant">SEOUL</p>
+              <p className="text-2xl cormorant">Nyaung Kan Aye TharThaNa YeikThar</p>
+              <p className="text-2xl cormorant">Yangon</p>
             </div>
           </div>
         </div>

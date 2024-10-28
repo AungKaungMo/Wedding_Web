@@ -20,10 +20,10 @@ const Info = () => {
                 <img data-aos="zoom-in" data-aos-duration="1000" src={Groom} className='' />
             </div>
 
-            <p className='text-3xl mt-2 parisienne' data-aos="fade-down" data-aos-duration="800">Aung Min Khant</p>
+            <p className='text-3xl mt-2 parisienne' data-aos="fade-down" data-aos-duration="800">Aung Myint Kyaw</p>
             <p className='cormorant text-xl' data-aos="fade-down" data-aos-duration="1000">Groom</p>
             <p className='cormorant text-lg mt-3 font-semibold text-center' data-aos="fade-down" data-aos-duration="1300">
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odio tempora rem suscipit nulla natus sequi magnam consequuntur aliquid! Quis natus exercitationem optio totam voluptas in autem recusandae modi. Blanditiis, facere molestias! Magnam velit iusto ab, hic sint autem dolorum eaque, aut earum, eos soluta est et recusandae perferendis ex."
+            Man of my life, Spirit & All of Yuya
             </p>
         </div>
 
@@ -40,7 +40,7 @@ const Info = () => {
             <p className='cormorant text-xl' data-aos="fade-down" data-aos-duration="1000">Bride</p>
 
             <p data-aos="fade-down" data-aos-duration="1300" className='cormorant text-lg mt-3 font-semibold text-center'>
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odio tempora rem suscipit nulla natus sequi magnam consequuntur aliquid! Quis natus exercitationem optio totam voluptas in autem recusandae modi. Blanditiis, facere molestias! Magnam velit iusto ab, hic sint autem dolorum eaque, aut earum, eos soluta est et recusandae perferendis ex."
+            Heart, Breath & Last moments of Aung
             </p>
         </div>
     </div>
