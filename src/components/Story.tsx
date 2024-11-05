@@ -93,8 +93,8 @@ const Story = ({ setSelectedPage }: propsType) => {
               data-aos="fade-down"
               data-aos-duration="2500"
             >
-              <p className="text-2xl cormorant">STARTING AT 9:00</p>
-              <p className="text-2xl cormorant">IN THE MORNING</p>
+              <p className="text-2xl cormorant">9:00 AM ~ 12:00 PM</p>
+              {/* <p className="text-2xl cormorant">IN THE MORNING</p> */}
             </div>
 
             <div
