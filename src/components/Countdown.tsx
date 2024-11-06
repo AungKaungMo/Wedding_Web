@@ -82,7 +82,7 @@ const Countdown = () => {
         <h2 className="mb-4 text-4xl cormorant italic">Don't miss it</h2>
         <div className="flex sm:space-x-14 space-x-5">
           {Object.entries(timeLeft).map(([unit, value]) => (
-            <div key={unit} className="flex flex-col items-center">
+            <div key={unit} className="flex flex-col items-center lucida">
               <div className="flex sm:h-20 sm:w-20 w-14 h-14 items-center justify-center rounded-full border-2 border-white bg-white/20 sm:text-2xl text-lg font-bold transition-transform hover:scale-125">
                 {isTimeUp ? 0 : value}
               </div>

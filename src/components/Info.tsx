@@ -20,7 +20,7 @@ const Info = () => {
                 <img data-aos="zoom-in" data-aos-duration="1000" src={Groom} className='' />
             </div>
 
-            <p className='text-3xl mt-2 parisienne text-center' data-aos="fade-down" data-aos-duration="800">Aung Myint Kyaw</p>
+            <p className='text-2xl mt-2 parisienne text-center' data-aos="fade-down" data-aos-duration="800">Aung Myint Kyaw</p>
             <p className='cormorant text-xl' data-aos="fade-down" data-aos-duration="1000">Groom</p>
             <p className='cormorant text-lg mt-3 font-semibold text-center' data-aos="fade-down" data-aos-duration="1300">
             Man of my life, Spirit & All of Yuya
@@ -36,7 +36,7 @@ const Info = () => {
                 <img data-aos="zoom-in" data-aos-duration="1000" src={Bride} className='w-full h-full object-cover' />
             </div>
 
-            <p className='text-3xl mt-2 parisienne' data-aos="fade-down" data-aos-duration="800">Yu Ya Htwe</p>
+            <p className='text-2xl mt-2 parisienne' data-aos="fade-down" data-aos-duration="800">Yu Ya Htwe</p>
             <p className='cormorant text-xl' data-aos="fade-down" data-aos-duration="1000">Bride</p>
 
             <p data-aos="fade-down" data-aos-duration="1300" className='cormorant text-lg mt-3 font-semibold text-center'>
