@@ -27,7 +27,7 @@ export const Navbar = ({
         {isTop && <div className="text-5xl font-light tracking-widest mb-2 parisienne transition-all duration-150">
           Aung <span className="font-normal">&</span> Yu Ya
         </div>}
-        {isTop && <div className="text-xl tracking-wider mb-4 transition-all duration-150">11.10.2024</div> }
+        {isTop && <div className="text-xl tracking-wider mb-4 transition-all duration-150 lucida">11.10.2024</div> }
  
         <div className={` list-none text-lg font-bold flex flex-row sm:space-x-8 space-x-4`}>
           {navItems.map((menu) => (

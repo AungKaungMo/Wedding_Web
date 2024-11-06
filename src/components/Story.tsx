@@ -83,7 +83,7 @@ const Story = ({ setSelectedPage }: propsType) => {
               data-aos-duration="2000"
             >
               <p className="text-2xl cormorant">WHICH IS CELEBRATION ON</p>
-              <p className="text-4xl cormorant font-semibold">
+              <p className="text-4xl cormorant font-semibold lucida">
                 NOV | 10 | 2024
               </p>
             </div>
